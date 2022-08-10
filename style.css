@@ -36,7 +36,7 @@
     }
     25%{
         opacity: 0;
-        transform: translateY(90px);
+        transform: translateY(90px)
         rotate(10deg);
     }
 }
