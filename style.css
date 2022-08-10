@@ -29,7 +29,7 @@
     10%,
     20%{
         opacity: 1;
-        transform: rotate(3deg);
+        transform: rotate(4deg);
     }
     15%{
         transform: rotate(-1deg);
