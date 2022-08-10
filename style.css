@@ -18,7 +18,7 @@
     padding-inline: 10px;
     opacity: 0;
     transform-origin: 10% 75%;
-    animation: rotateWords 20s
+    animation: rotateWords 18s
     var(--d) linear infinite;
 }
 
