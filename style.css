@@ -12,9 +12,9 @@
 
 .rotate-words span{
     width: max-content;
-    border-radius: 5px;
+    border-radius: 10px;
     position: absolute;
-    background-color: #607EAA;
+    background-color: black;
     padding-inline: 10px;
     opacity: 0;
     transform-origin: 10% 75%;
