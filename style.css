@@ -1,6 +1,6 @@
 .title{
     position: relative;
-    color: #fff;
+    color: #F9F5EB;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: unset;
 }
@@ -14,7 +14,7 @@
     width: max-content;
     border-radius: 5px;
     position: absolute;
-    background-color: maroon;
+    background-color: #607EAA;
     padding-inline: 10px;
     opacity: 0;
     transform-origin: 10% 75%;
